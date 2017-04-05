@@ -1,5 +1,5 @@
 ---
-NO-01:
+'01':
   unofficial_names: Østfold
   translations:
     en: Østfold
@@ -11,7 +11,7 @@ NO-01:
     max_latitude: 59.79051459999999
     max_longitude: 11.9460045
   name: Østfold
-NO-02:
+'02':
   unofficial_names: Akershus
   translations:
     en: Akershus
@@ -23,7 +23,7 @@ NO-02:
     max_latitude: 60.59664780000001
     max_longitude: 11.9260507
   name: Akershus
-NO-03:
+'03':
   unofficial_names: Oslo
   translations:
     en: Oslo
@@ -35,7 +35,7 @@ NO-03:
     max_latitude: 59.978035
     max_longitude: 10.9476642
   name: Oslo
-NO-04:
+'04':
   unofficial_names: Hedmark
   translations:
     en: Hedmark
@@ -47,7 +47,7 @@ NO-04:
     max_latitude: 62.6969236
     max_longitude: 12.8708487
   name: Hedmark
-NO-05:
+'05':
   unofficial_names: Oppland
   translations:
     en: Oppland
@@ -59,7 +59,7 @@ NO-05:
     max_latitude: 62.37840250000001
     max_longitude: 11.1327999
   name: Oppland
-NO-06:
+'06':
   unofficial_names: Buskerud
   translations:
     en: Buskerud
@@ -71,7 +71,7 @@ NO-06:
     max_latitude: 61.0917205
     max_longitude: 10.6192606
   name: Buskerud
-NO-07:
+'07':
   unofficial_names: Vestfold
   translations:
     en: Vestfold
@@ -83,7 +83,7 @@ NO-07:
     max_latitude: 59.6915912
     max_longitude: 10.6001915
   name: Vestfold
-NO-08:
+'08':
   unofficial_names: Telemark
   translations:
     en: Telemark
@@ -95,7 +95,7 @@ NO-08:
     max_latitude: 60.1882718
     max_longitude: 9.895088099999999
   name: Telemark
-NO-09:
+'09':
   unofficial_names: Aust-Agder
   translations:
     en: Aust-Agder
@@ -107,7 +107,7 @@ NO-09:
     max_latitude: 59.6704093
     max_longitude: 9.3693846
   name: Aust-Agder
-NO-10:
+'10':
   unofficial_names: Vest-Agder
   translations:
     en: Vest-Agder
@@ -119,7 +119,7 @@ NO-10:
     max_latitude: 59.18884579999999
     max_longitude: 8.2098324
   name: Vest-Agder
-NO-11:
+'11':
   unofficial_names: Rogaland
   translations:
     en: Rogaland
@@ -131,7 +131,7 @@ NO-11:
     max_latitude: 59.84433379999999
     max_longitude: 7.2119667
   name: Rogaland
-NO-12:
+'12':
   unofficial_names: Hordaland
   translations:
     en: Hordaland
@@ -143,7 +143,7 @@ NO-12:
     max_latitude: 61.0352379
     max_longitude: 7.732114699999999
   name: Hordaland
-NO-14:
+'14':
   unofficial_names: Sogn og Fjordane
   translations:
     en: Sogn og Fjordane
@@ -155,7 +155,7 @@ NO-14:
     max_latitude: 62.2168708
     max_longitude: 8.3220528
   name: Sogn og Fjordane
-NO-15:
+'15':
   unofficial_names: Møre og Romsdal
   translations:
     en: Møre og Romsdal
@@ -167,7 +167,7 @@ NO-15:
     max_latitude: 63.5377568
     max_longitude: 9.5842118
   name: Møre og Romsdal
-NO-16:
+'16':
   unofficial_names: Sør-Trøndelag
   translations:
     en: Sør-Trøndelag
@@ -179,7 +179,7 @@ NO-16:
     max_latitude: 64.4653999
     max_longitude: 12.2467012
   name: Sør-Trøndelag
-NO-17:
+'17':
   unofficial_names: Nord-Trøndelag
   translations:
     en: Nord-Trøndelag
@@ -191,19 +191,19 @@ NO-17:
     max_latitude: 65.39440379999999
     max_longitude: 14.3259858
   name: Nord-Trøndelag
-NO-18:
+'18':
   unofficial_names: Nordland
   translations:
     en: Nordland
   geo:
     latitude: 67.69167019999999
     longitude: 12.7019476
-    min_latitude: 
-    min_longitude: 
-    max_latitude: 
-    max_longitude: 
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
   name: Nordland
-NO-19:
+'19':
   unofficial_names: Troms
   translations:
     en: Troms
@@ -215,7 +215,7 @@ NO-19:
     max_latitude: 70.31976139999999
     max_longitude: 22.8944657
   name: Troms
-NO-20:
+'20':
   unofficial_names:
   - Finnmarku
   translations:
@@ -228,27 +228,27 @@ NO-20:
     max_latitude: 71.1854762
     max_longitude: 31.1682684
   name: Finnmark
-NO-21:
+'21':
   unofficial_names: Svalbard (Arctic Region) (See also country code SJ)
   translations:
     en: Svalbard (Arctic Region) (See also country code SJ)
   geo:
-    latitude: 
-    longitude: 
-    min_latitude: 
-    min_longitude: 
-    max_latitude: 
-    max_longitude: 
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
   name: Svalbard (Arctic Region) (See also country code SJ)
-NO-22:
+'22':
   unofficial_names: Jan Mayen (Arctic Region) (See also country code SJ)
   translations:
     en: Jan Mayen (Arctic Region) (See also country code SJ)
   geo:
-    latitude: 
-    longitude: 
-    min_latitude: 
-    min_longitude: 
-    max_latitude: 
-    max_longitude: 
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
   name: Jan Mayen (Arctic Region) (See also country code SJ)
